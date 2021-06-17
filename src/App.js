@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import CatComponent from "./CatComponent";
 import MouseComponent from "./CatComponent";
-import {GraceHopperQuoteComponent} from "./CatComponent";
 
 
 class App extends Component {
